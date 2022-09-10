@@ -1,9 +1,9 @@
 # Menu
 menu:
   Home: /
-  Archives: /archives
-  Gallery: /gallery
-  About: /about
+  Archives: /归档
+  Gallery: /相册
+  About: /关于
 rss: /atom.xml
 
 
@@ -41,16 +41,16 @@ show_copy_btn: true
 
 # Gitalk
 gitalk:
-  enable: false # true
-  clientID: # GitHub Application Client ID
-  clientSecret: # Client Secret
-  repo: # Repository name
-  owner: # GitHub ID
-  admin: # GitHub ID
+  enable: true # true
+  clientID: b9746312c5b1e713d7e5 # GitHub Application Client ID
+  clientSecret: 2dee951718c6b7193ca6567e5693751336a2e344 # Client Secret
+  repo: Hexo-application # Repository name
+  owner: dawnwindyj # GitHub ID
+  admin: dawnwindyj # GitHub ID
 
 # Valine
 valine:
-  enable: false # true
+  enable: true # true
   el: 'vcomments'
   appId:
   appKey:
@@ -59,3 +59,6 @@ valine:
   avatar: 'mp'
   pageSize: '10'
   placeholder: '请输入...'
+
+  #资源文件管理
+  post_asset_folder: true
