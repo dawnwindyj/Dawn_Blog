@@ -1,9 +1,9 @@
 # Menu
 menu:
   Home: /
-  Archives: /归档
-  Gallery: /相册
-  About: /关于
+  Archives: /archives
+  Gallery: /gallery
+  About: /about
 rss: /atom.xml
 
 
@@ -50,7 +50,7 @@ gitalk:
 
 # Valine
 valine:
-  enable: true # true
+  enable: false # true
   el: 'vcomments'
   appId:
   appKey:
@@ -59,6 +59,3 @@ valine:
   avatar: 'mp'
   pageSize: '10'
   placeholder: '请输入...'
-
-  #资源文件管理
-  post_asset_folder: true
