@@ -3,6 +3,7 @@ title: 相册--别客气，随便看
 date: 2022-09-11 10:46:48
 
 albums: [
+         ["gallery/indx/那天.jpg","那天"],
         ["gallery/indx/02.jpg","黄昏"],
         ["gallery/indx/04.jpg","未完工"],
         ["gallery/indx/03.jpg","黄昏"],
