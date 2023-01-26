@@ -3,6 +3,7 @@ title: 想与你分享一些我的足迹
 date: 2022-09-11 10:46:48
 
 albums: [
+  ["gallery/indx/处女作.png","第一作"],
          ["gallery/indx/那天.jpg","one day"],
          ["gallery/indx/歌单.png","2022年度歌单"],
         ["gallery/indx/02.jpg","黄昏"],
