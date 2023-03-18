@@ -3,6 +3,7 @@ title: 想与你分享一些我的足迹
 date: 2022-09-11 10:46:48
 
 albums: [
+["gallery/indx/原.jpeg","武汉夜"],
 ["gallery/indx/有条路.jpeg","有条路"],
 ["gallery/indx/有条路1.jpeg","还是那条路上"],
   ["gallery/indx/处女作.png","第一次画"],
