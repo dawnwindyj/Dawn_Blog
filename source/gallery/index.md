@@ -7,7 +7,6 @@ albums: [
 ["gallery/indx/有条路.jpeg","有条路"],
 ["gallery/indx/有条路1.jpeg","还是那条路上"],
   ["gallery/indx/处女作.png","第一次画"],
-         ["gallery/indx/那天.jpg","one day"],
          ["gallery/indx/歌单.png","2022年度歌单"],
         ["gallery/indx/02.jpg","黄昏"],
         ["gallery/indx/04.jpg","未完工"],
